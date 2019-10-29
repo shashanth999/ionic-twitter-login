@@ -7,8 +7,6 @@ For this Ionic example app we are going to build a simple ionic 4 app that allow
 
 <div>
 <img src="https://s3-us-west-2.amazonaws.com/ionicthemes/tutorials/screenshots/ionic-twitter-login/twitter-login-1.png" width="270">
-<img src="https://s3-us-west-2.amazonaws.com/ionicthemes/tutorials/screenshots/ionic-twitter-login/twitter-login-2.png" width="270">
-<img src="https://s3-us-west-2.amazonaws.com/ionicthemes/tutorials/screenshots/ionic-twitter-login/twitter-login-3.png" width="270">
 </div>
 
 **Note:** This code is for Ionic v4.
